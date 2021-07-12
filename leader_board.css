@@ -176,13 +176,12 @@ hr {
   }
   .blog {
     display: flex;
-    align-items: stretch;
+    align-items: flex-end;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-evenly;
     align-content: stretch;
-    width: 65px;
-    width: 293px;
+    width: 383px;
   }
   .courses {
     grid-template-columns: repeat(2, 1fr);
