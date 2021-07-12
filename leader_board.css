@@ -153,8 +153,11 @@ hr {
   .courses {
     grid-template-columns: repeat(1, 1fr);
   }
-  .course {
-    padding: 120px;
+  .course-banner {
+    margin-left: 40px;
+  }
+  .course-info {
+    margin-left: 40px;
   }
 }
 
