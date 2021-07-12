@@ -184,7 +184,7 @@ hr {
     flex-direction: column;
     justify-content: space-evenly;
     align-content: stretch;
-    width: 383px;
+    width: 307px;
   }
   .courses {
     grid-template-columns: repeat(2, 1fr);
