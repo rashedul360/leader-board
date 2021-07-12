@@ -131,6 +131,11 @@ hr {
 /* media query effect */
 /* mobile device */
 @media only screen and (max-width: 688px) {
+  main {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
   .container {
     width: 100%;
   }
