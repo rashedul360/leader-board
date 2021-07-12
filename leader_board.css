@@ -136,6 +136,11 @@ hr {
     justify-content: center;
     align-items: center;
   }
+  .thumbail img {
+    width: 140px;
+    margin-top: 22px;
+  }
+
   .container {
     width: 100%;
   }
